@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconmaskblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconmaskblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconupon.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconupon.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconbackblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconbackblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_preview2.jpg.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\preview2.jpg"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconmask.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconmask.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_preview1.jpg.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\preview1.jpg"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_feature.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\feature.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\xml_appfilter.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\xml\\appfilter.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconback.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\ApexIconPackSample1\\app\\src\\main\\res\\drawable-hdpi\\iconback.png"
+    }
+]
